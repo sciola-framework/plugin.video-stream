@@ -6,7 +6,7 @@
  * @link http://codesamplez.com/programming/php-html5-video-streaming-tutorial
  * @version 1.0.0
  */
-namespace Sciola;
+namespace Sciola\Plugin;
 
 class VideoStream
 {
