@@ -1,5 +1,7 @@
 {
   "name": "@sciola/video-stream",
+  "version": "1.0.0",
+  "class": "ClassName.php",
   "dependencies": {
 
   },
